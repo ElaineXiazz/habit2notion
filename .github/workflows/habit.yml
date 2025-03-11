@@ -3,7 +3,7 @@ name: habit sync
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 5,17 * * *"
+    - cron: "0 */1 * * *"
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
