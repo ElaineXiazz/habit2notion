@@ -220,11 +220,31 @@
         "status": 2
     },
     {
+        "id": "67f87868ebbf3d0000001a55",
+        "habitId": "67a6b8c2ebbf3d000200030e",
+        "checkinStamp": 20250410,
+        "checkinTime": "2025-04-11T02:03:20.000+0000",
+        "opTime": "2025-04-11T02:03:20.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
         "id": "67b52a36ebbf3d0000000aff",
         "habitId": "67a6b8c2ebbf3d000200030e",
         "checkinStamp": 20250219,
         "checkinTime": "2025-02-19T00:47:50.000+0000",
         "opTime": "2025-02-19T00:47:50.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "67f8786bebbf3d0000001a58",
+        "habitId": "67a6b8c2ebbf3d000200030e",
+        "checkinStamp": 20250411,
+        "checkinTime": "2025-04-11T02:03:23.000+0000",
+        "opTime": "2025-04-11T02:03:23.000+0000",
         "value": 1.0,
         "goal": 1.0,
         "status": 2
