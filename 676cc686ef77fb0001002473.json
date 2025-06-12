@@ -340,6 +340,16 @@
         "status": 2
     },
     {
+        "id": "684a27a9ebbf3d0000001658",
+        "habitId": "676cc686ef77fb0001002473",
+        "checkinStamp": 20250612,
+        "checkinTime": "2025-06-12T01:04:41.000+0000",
+        "opTime": "2025-06-12T01:04:41.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
         "id": "67753d2465e2d1b888cf2975",
         "habitId": "676cc686ef77fb0001002473",
         "checkinStamp": 20250101,
