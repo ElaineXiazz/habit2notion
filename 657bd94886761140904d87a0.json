@@ -1,15 +1,5 @@
 [
     {
-        "id": "67e35337ebbf3d0000000ae0",
-        "habitId": "657bd94886761140904d87a0",
-        "checkinStamp": 20250325,
-        "checkinTime": "2025-03-26T01:07:03.000+0000",
-        "opTime": "2025-03-26T01:07:03.000+0000",
-        "value": 1.0,
-        "goal": 1.0,
-        "status": 2
-    },
-    {
         "id": "67be9b85ebbf3d0000000091",
         "habitId": "657bd94886761140904d87a0",
         "checkinStamp": 20250224,
@@ -100,11 +90,71 @@
         "status": 2
     },
     {
+        "id": "67b7ceafebbf3d0000000fba",
+        "habitId": "657bd94886761140904d87a0",
+        "checkinStamp": 20250221,
+        "checkinTime": "2025-02-21T00:54:07.000+0000",
+        "opTime": "2025-02-21T00:54:07.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "67b2cdc171d1514cb1e5c69e",
+        "habitId": "657bd94886761140904d87a0",
+        "checkinStamp": 20250217,
+        "checkinTime": "2025-02-17T05:48:49.000+0000",
+        "opTime": "2025-02-17T05:48:49.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "67e35337ebbf3d0000000ae0",
+        "habitId": "657bd94886761140904d87a0",
+        "checkinStamp": 20250325,
+        "checkinTime": "2025-03-26T01:07:03.000+0000",
+        "opTime": "2025-03-26T01:07:03.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "686338b5ebbf3d0000002abe",
+        "habitId": "657bd94886761140904d87a0",
+        "checkinStamp": 20250629,
+        "checkinTime": "2025-07-01T01:24:05.000+0000",
+        "opTime": "2025-07-01T01:24:05.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "686338e9ebbf3d0000002ae7",
+        "habitId": "657bd94886761140904d87a0",
+        "checkinStamp": 20250628,
+        "checkinTime": "2025-07-01T01:24:57.000+0000",
+        "opTime": "2025-07-01T01:24:57.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
         "id": "67ce620101ea918a23218e86",
         "habitId": "657bd94886761140904d87a0",
         "checkinStamp": 20250310,
         "checkinTime": "2025-03-10T03:52:33.000+0000",
         "opTime": "2025-03-10T03:52:33.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "686338c6ebbf3d0000002ac7",
+        "habitId": "657bd94886761140904d87a0",
+        "checkinStamp": 20250630,
+        "checkinTime": "2025-07-01T01:24:22.000+0000",
+        "opTime": "2025-07-01T01:24:22.000+0000",
         "value": 1.0,
         "goal": 1.0,
         "status": 2
@@ -160,21 +210,21 @@
         "status": 2
     },
     {
-        "id": "685dec4debbf3d0000001fc7",
+        "id": "686338ebebbf3d0000002aea",
         "habitId": "657bd94886761140904d87a0",
-        "checkinStamp": 20250626,
-        "checkinTime": "2025-06-27T00:56:45.000+0000",
-        "opTime": "2025-06-27T00:56:45.000+0000",
+        "checkinStamp": 20250627,
+        "checkinTime": "2025-07-01T01:24:59.000+0000",
+        "opTime": "2025-07-01T01:24:59.000+0000",
         "value": 1.0,
         "goal": 1.0,
         "status": 2
     },
     {
-        "id": "67b7ceafebbf3d0000000fba",
+        "id": "685dec4debbf3d0000001fc7",
         "habitId": "657bd94886761140904d87a0",
-        "checkinStamp": 20250221,
-        "checkinTime": "2025-02-21T00:54:07.000+0000",
-        "opTime": "2025-02-21T00:54:07.000+0000",
+        "checkinStamp": 20250626,
+        "checkinTime": "2025-06-27T00:56:45.000+0000",
+        "opTime": "2025-06-27T00:56:45.000+0000",
         "value": 1.0,
         "goal": 1.0,
         "status": 2
@@ -205,16 +255,6 @@
         "checkinStamp": 20250120,
         "checkinTime": "2025-01-20T13:25:36.000+0000",
         "opTime": "2025-01-20T13:25:36.000+0000",
-        "value": 1.0,
-        "goal": 1.0,
-        "status": 2
-    },
-    {
-        "id": "67b2cdc171d1514cb1e5c69e",
-        "habitId": "657bd94886761140904d87a0",
-        "checkinStamp": 20250217,
-        "checkinTime": "2025-02-17T05:48:49.000+0000",
-        "opTime": "2025-02-17T05:48:49.000+0000",
         "value": 1.0,
         "goal": 1.0,
         "status": 2
