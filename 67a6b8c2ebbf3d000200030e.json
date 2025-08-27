@@ -648,5 +648,15 @@
         "value": 1.0,
         "goal": 1.0,
         "status": 2
+    },
+    {
+        "id": "68ae83b274ef51397d008fc5",
+        "habitId": "67a6b8c2ebbf3d000200030e",
+        "checkinStamp": 20250827,
+        "checkinTime": "2025-08-27T04:04:02.000+0000",
+        "opTime": "2025-08-27T04:04:02.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
     }
 ]
